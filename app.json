@@ -1,3 +1,5 @@
 {
-  "require-auth": true
+  "options": {
+    "allow-unauthenticated": false
+  }
 }
